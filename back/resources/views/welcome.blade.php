@@ -1,0 +1,2 @@
+<?php 
+dd($errors->all());
